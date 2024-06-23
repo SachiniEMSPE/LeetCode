@@ -1,4 +1,4 @@
 # LeetCode
 ## Grind 75 
 1. Two Sum
-2. Valid Parenthesis
+2. Valid Parentheses
