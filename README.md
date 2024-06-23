@@ -1,4 +1,6 @@
 # LeetCode
 ## Grind 75 
 1. Two Sum
-2. Valid Parentheses
+     - HashMap to save O(N^2) --> O(N)
+3. Valid Parentheses
+     - Stack O(N)
