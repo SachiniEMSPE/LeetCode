@@ -5,4 +5,4 @@
 2. Valid Parentheses
      - Stack O(N)
 3. Merge Two Sorted Lists
-     - Linked List
+     - Linked List O(m+n)
