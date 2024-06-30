@@ -8,3 +8,5 @@
      - Linked List O(m+n)
 4. Best Time to Buy and Sell Stock
     - List 2 pointer O(n^2) --> O(n) 
+5. Valid Palindrome
+   - Regex
