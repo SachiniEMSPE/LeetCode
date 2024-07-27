@@ -10,3 +10,5 @@
     - List 2 pointer O(n^2) --> O(n) 
 5. Valid Palindrome
    - Regex
+6. Invert Binary Tree
+   - Linked List
